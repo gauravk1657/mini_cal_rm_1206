@@ -24,6 +24,6 @@ JavaScript
 DOM
 
 
- this project only for study  perpose .
+ this project only for study  and practised .
  
 
